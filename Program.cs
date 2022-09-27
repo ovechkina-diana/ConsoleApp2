@@ -1,5 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-class Test
+class Test2
 {
-    int test;
+    string test;
 }
+
+class Test3
+{
+    string test;
+}
+
+class Test4
+{
+    string test;
+}
+
+class Test5
+{
+    string test;
+}
+
+

@@ -1,4 +1,4 @@
-﻿class Test2
+class Test2
 {
     string test;
 }
@@ -13,8 +13,9 @@ class Test4
     string test;
 }
 
-
 class Test5
 {
     string test;
 }
+
+

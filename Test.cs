@@ -9,4 +9,9 @@ namespace ConsoleApp2
     internal class Test
     {
     }
+
+    class NewClass
+    {
+        string hello;
+    }
 }

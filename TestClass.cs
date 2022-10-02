@@ -8,5 +8,6 @@ namespace ConsoleApp2
 {
     internal class TestClass
     {
+        string b = "хочу чтобы это заработало))";
     }
 }
